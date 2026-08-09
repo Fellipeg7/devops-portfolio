@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 DevOps Portfolio
+# DevOps Portfolio
 
 **Site portfolio interativo com animações, projetos em destaque e blog integrado.**
 
@@ -13,16 +13,18 @@
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-- 🎬 **Animações fluidas** com `framer-motion` — hero com entrada escalonada, cards com hover e scroll reveals.
-- 🖥️ **Layout responsivo** construído com Tailwind CSS — do mobile ao desktop.
-- 📌 **Seções profissionais** — hero, projetos em destaque e formulário de contato.
-- 📝 **Blog integrado** (roadmap) — artigos de engenharia direto no portfólio.
-- 🌙 **Tema dark** moderno com acentos em gradiente cyan → esmeralda.
-- ⚡ **Performance nativa do Vite** — HMR instantâneo e build otimizado.
+Esse é meu portfolio, o lugar onde eu junto os projetos que venho fazendo e onde pretendo publicar meus artigos de engenharia. Algumas coisas que ele tem:
 
-## 🛠️ Stack de Tecnologias
+- **Animações fluidas** com `framer-motion` — hero com entrada escalonada, cards com hover e scroll reveals.
+- **Layout responsivo** feito com Tailwind CSS — funciona do mobile ao desktop.
+- **Seções profissionais** — hero, projetos em destaque e formulário de contato.
+- **Blog integrado** (roadmap) — pretendo colocar artigos de engenharia direto no portfolio.
+- **Tema dark** moderno com acentos em gradiente cyan → esmeralda.
+- **Performance nativa do Vite** — HMR instantâneo e build otimizado.
+
+## Stack de Tecnologias
 
 | Camada        | Tecnologias                                          |
 | ------------- | ---------------------------------------------------- |
@@ -31,7 +33,7 @@
 | **Estilo**    | Tailwind CSS 3, Autoprefixer, PostCSS                 |
 | **Animações** | Framer Motion                                         |
 
-## 🚀 Como Rodar
+## Como Rodar
 
 Pré-requisito: **Node.js 18+** e npm.
 
@@ -56,11 +58,11 @@ npm run build     # gera a pasta dist/
 npm run preview   # serve o build localmente para testes
 ```
 
-## 🌐 Demo ao Vivo
+## Demo ao Vivo
 
-> 🚧 **Em breve** — o deploy será publicado aqui.
+> **Em breve** — ainda vou publicar o deploy aqui.
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 devops-portfolio/
@@ -80,9 +82,9 @@ devops-portfolio/
         └── Contact.jsx      # Formulário de contato + canais
 ```
 
-## ☁️ Deploy
+## Deploy
 
-O projeto está pronto para deploy em qualquer plataforma estática:
+O projeto já está pronto pra subir em qualquer plataforma estática:
 
 | Plataforma | Como fazer                                                                  |
 | ---------- | --------------------------------------------------------------------------- |
@@ -90,18 +92,18 @@ O projeto está pronto para deploy em qualquer plataforma estática:
 | **Netlify**| `Build command: npm run build` · `Publish directory: dist`                  |
 | **GitHub Pages** | Build com `npm run build` e publique a pasta `dist` com GitHub Actions |
 
-## 🤝 Contribuindo
+## Contribuindo
 
-Contribuições são bem-vindas! Abra uma *issue* para discutir mudanças ou envie um *pull request*.
+Fique à vontade pra contribuir! Abra uma *issue* pra discutir mudanças ou manda um *pull request*.
 
-## 📄 Licença
+## Licença
 
-Distribuído sob a licença **MIT**. Veja o arquivo [`LICENSE`](LICENSE) para mais detalhes.
+Distribuído sob a licença **MIT**. Veja o arquivo [`LICENSE`](LICENSE) pra mais detalhes.
 
 ---
 
 <div align="center">
 
-Feito com ❤️ por [Fellipeg7](https://github.com/Fellipeg7)
+Feito por [Fellipeg7](https://github.com/Fellipeg7)
 
 </div>
